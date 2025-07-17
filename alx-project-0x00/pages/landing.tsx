@@ -1,5 +1,5 @@
 import Card from "@/components/Card";
-import Button from "@/components/button";
+import Button from "@/components/Button";
 
 
 const sizes = {
